@@ -1,0 +1,14 @@
+# install pycharm
+# créer un environnement dans pycharm via File-> Setting -> python interpreter -> Add interpreter -> add local interpreter -> virtualenv environnement
+
+pyqt6
+pyqtgraph
+matplotlib
+sparse
+hyperspy[all]
+xraydb
+
+
+#import h5py
+#>>> import numpy as np
+#>>> f = h5py.File("you_velox_file.emd")
